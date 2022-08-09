@@ -1,5 +1,6 @@
-# Curseforge Mirror Template
+# Mythic Dungeon Tools Mirror
 
-This is a python script plus Github Action to generate a release every period of time for addons that aren't yet transitioned to Github.
+This is a mirror of Nnoggie's Mythic Dungeon Tools 
 
-This specific repo does nothing but acts as a template to build upon!
+- [Curseforge URL](https://www.curseforge.com/wow/addons/mythic-dungeon-tools)
+- [Github URL](https://github.com/nnoggie/MythicDungeonTools)
